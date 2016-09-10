@@ -11,7 +11,7 @@ defined('C5_EXECUTE') or die(_("Access Denied."));
 class Controller extends Package {
 
   protected $pkgHandle = "mdpd";
-  protected $appVersionRequired = "5.5";
+  protected $appVersionRequired = "5.7";
   protected $pkgVersion = "1.0";
 
   public function getPackageName() {
