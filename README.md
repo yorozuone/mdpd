@@ -1,4 +1,4 @@
-# mdpd
+# mdpd for concrete5.7
 
 Markdown text editor for concrete5
 
