@@ -2,6 +2,35 @@
 
 Markdown text editor for concrete5
 
+![SS1](docs/ss0010e.png)
+
+## Introduction
+
+Is a block for displaying MarkDownText in concrete5.The display of MarkDown, use the ParseDown library.
+
+ParseDown  
+HP : [http://parsedown.org/](http://parsedown.org/)  
+GitHub : [https://github.com/erusev/parsedown](https://github.com/erusev/parsedown)  
+
+### How to install
+
+#### 1.Upload package files.
+
+Upload the downloaded file to the '/packages' folder of concrete5.
+
+#### 2.Install the package.
+
+The installation waiting , you can see the MDPD. Please install and click Install.
+
+![SS1](docs/ss0020e.png)
+#### 3.Completion of installation.
+
+When the installation is successful , it will be displayed on the installed.Now available.
+
+![SS1](docs/ss0030e.png)
+
+----
+
 ![SS1](docs/ss0010.png)
 
 ## はじめに
