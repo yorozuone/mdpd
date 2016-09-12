@@ -8,9 +8,9 @@ Markdown text editor for concrete5
 
 concrete5 で、MarkDown テキストを表示するためのブロックです。MarkDown の表示には、ParseDown ライブラリを利用しています。
 
-ParseDown
-HP : [http://parsedown.org/](http://parsedown.org/)
-GitHub : [https://github.com/erusev/parsedown](https://github.com/erusev/parsedown)
+ParseDown  
+HP : [http://parsedown.org/](http://parsedown.org/)  
+GitHub : [https://github.com/erusev/parsedown](https://github.com/erusev/parsedown)  
 
 ### インストール方法
 
