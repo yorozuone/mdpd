@@ -1,12 +1,12 @@
 # mdpd for concrete5.7
 
-Markdown text editor for concrete5
+This is the Markdown text editor for concrete5
 
 ![SS1](docs/ss0010e.png)
 
 ## Introduction
 
-Is a block for displaying MarkDownText in concrete5.The display of MarkDown, use the ParseDown library.
+This is the text block for displaying MarkDownText in concrete5. To see the MarkDown, use the ParseDown library.
 
 ParseDown  
 HP : [http://parsedown.org/](http://parsedown.org/)  
@@ -20,12 +20,12 @@ Upload the downloaded file to the '/packages' folder of concrete5.
 
 #### 2.Install the package.
 
-The installation waiting , you can see the MDPD. Please install and click Install.
+The installation waiting , you can see the MDPD. Please install by clicking the install button.
 
 ![SS1](docs/ss0020e.png)
 #### 3.Completion of installation.
 
-When the installation is successful , it will be displayed on the installed.Now available.
+When the installation is successful , it will be displayed on the installed.Now it is available.
 
 ![SS1](docs/ss0030e.png)
 
